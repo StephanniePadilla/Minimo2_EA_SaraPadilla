@@ -35,7 +35,7 @@
     "install": "^0.12.2",
     "jsonwebtoken": "^8.5.1",
     "jwt-simple": "^0.5.5",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mongoose": "^5.4.19",
     "mongoose-extend-schema": "^1.0.0",
     "morgan": "^1.9.1",
